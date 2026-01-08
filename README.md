@@ -10,5 +10,29 @@
 - 📫How to reach me: **[akintundetunmise001@gmail.com]   [Fiverr: (https://www.fiverr.com/samuelecome)]**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I don't just write code; I build digital assets that solve real-world business problems.**
- 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=akintundedev&show_icons=true&theme=radical)
+
+### 🛠️ Tech Stack & Architecture
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,react,tailwind,nodejs,mongodb,figma,postman&perline=12" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=500&lines=High-Performance+Web+Architecture;Full-Stack+Business+Solutions;Scalable+Digital+Infrastructure" alt="Typing SVG" />
+</p>
+
+### 🤝 Let's Connect
+<p align="left">
+<a href="https://www.fiverr.com/samuelecome" target="_blank">
+  <img src="https://cdn.simpleicons.org/fiverr/1DB111" width="40" height="40" alt="Fiverr" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@akintunde_dev" target="_blank">
+  <img src="https://cdn.simpleicons.org/tiktok/000000" width="40" height="40" alt="TikTok" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:akintundetunmise001@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40" alt="Email" />
+</a>
+</p>
