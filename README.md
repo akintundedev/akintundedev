@@ -1,3 +1,5 @@
+![Hero Banner](name-of-your-image.png)
+
 ## Hi, I’m Akintunde, a front-end developer looking to leave a mark on the Hello World .
 - 🔭 I’m currently focused on **Architecting high-performance web applications and scalable digital solutions.*
 - 🌱 I’m currently expanding my expertise in **Full-Stack development and Cloud Infrastructure.**
