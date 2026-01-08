@@ -1,4 +1,5 @@
-![Hero Banner](name-of-your-image.png)
+<img width="1000" height="400" alt="banner" src="https://github.com/user-attachments/assets/0399fe52-f29b-45ff-97ff-037f0a4aba94" />
+
 
 ## Hi, I’m Akintunde, a front-end developer looking to leave a mark on the Hello World .
 - 🔭 I’m currently focused on **Architecting high-performance web applications and scalable digital solutions.*
